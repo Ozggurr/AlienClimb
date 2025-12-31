@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f409730b922f7243ad6c9ae9b7eb492
+labels:
+- gvh
+- gvh_manifest
+- gvh_version-1.2.137.0
+- gvh_version-1.2.186
+- gvhp_exportpath-PlayServicesResolver/Editor/play-services-resolver_v1.2.137.0.txt
+timeCreated: 1474401009
+licenseType: Pro
+TextScriptImporter:
+  userData:
+  assetBundleName:
+  assetBundleVariant:
